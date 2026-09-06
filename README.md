@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-Me chamo Juri Borges Falcão Neto, sou natural de Salvador. Atualmente estou cursando Engenharia de Software. 
+Me chamo Juri Borges Falcão Neto, sou natural de Salvador. Atualmente estou cursando Engenharia de Software na UCSal. Sempre vou adicionar meus projetos pessoais e atividades desenvolvidas ao longo do curso aqui. Sempre gostei de tecnologia e computadores mas o interesse de como um software é desenvolvido e mantido foi o que acabou me levando para área. Gosto muito de resolver problemas e documentar minhas soluções para melhorar meu conhecimento e conseguir me adaptar para encontrar soluções cada vez mais sofisticadas.
 
 ---
 

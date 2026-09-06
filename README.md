@@ -1,12 +1,16 @@
-# 🖥️ Juri Neto
+# 💻 Oi, meu nome é Juri Neto!
 
-**`Software Engineer`**
+**Estudante de Engenharia de Software**
 
-Me chamo Juri Borges Falcão Neto, sou natural de Salvador. Atualmente estou cursando Engenharia de Software na UCSal. Sempre vou adicionar meus projetos pessoais e atividades desenvolvidas ao longo do curso aqui. Sempre gostei de tecnologia e computadores mas o interesse de como um software é desenvolvido e mantido foi o que acabou me levando para área. Gosto muito de resolver problemas e documentar minhas soluções para melhorar meu conhecimento e conseguir me adaptar para encontrar soluções cada vez mais sofisticadas.
+- 🧑‍💻 Sempre gostei de tecnologia e computadores, mas o interesse por como um software é desenvolvido e mantido foi o que acabou me levando para a área.
+
+- 📄 Gosto muito de resolver problemas e documentar minhas soluções para melhorar meu conhecimento e conseguir me adaptar para encontrar soluções cada vez mais sofisticadas.
+
+- 🧠 Estou sempre disposto a aprender. Gosto de desenvolver projetos utilizando as habilidades, ferramentas ou tecnologias que venho estudando.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens | Tecnologias | Ferramentas
 
 <img 
     align="left" 
@@ -14,7 +18,7 @@ Me chamo Juri Borges Falcão Neto, sou natural de Salvador. Atualmente estou cur
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
@@ -34,14 +38,6 @@ Me chamo Juri Borges Falcão Neto, sou natural de Salvador. Atualmente estou cur
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -55,6 +51,22 @@ Me chamo Juri Borges Falcão Neto, sou natural de Salvador. Atualmente estou cur
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Eclipse" 
+    title="Eclipse"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 
 <br/>
